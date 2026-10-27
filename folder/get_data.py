@@ -62,6 +62,7 @@ plt.tight_layout()
 plt.savefig('weather_chart.png')
 plt.show()
 
+#download the chart
 
 
 import os
